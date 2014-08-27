@@ -10,6 +10,7 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="Demo.vi" Type="VI" URL="../Demo.vi"/>
 		<Item Name="StatD Interface.lvclass" Type="LVClass" URL="../StatD Class/StatD Interface.lvclass"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>

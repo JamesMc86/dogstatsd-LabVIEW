@@ -73,8 +73,17 @@ This is designed for use with datadog agents which has additional support for ta
 			<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
 		</Item>
 	</Item>
+	<Item Name="Close.vi" Type="VI" URL="../Close.vi">
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%1#!#!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!$T!!!!#!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!.E"Q!"Y!!"E85X2B&gt;%1A37ZU:8*G97.F,GRW9WRB=X-!%F.U982%)%FO&gt;'6S:G&amp;D:3"J&lt;A!!6!$Q!!Q!!Q!%!!1!"!!%!!1!"!!%!!5!"!!%!!9#!!"Y!!!.#!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!I!!!!!!!!!!!!!!"!!!!!!!1!(!!!!!!</Property>
+		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1107821056</Property>
+	</Item>
 	<Item Name="Connect.vi" Type="VI" URL="../Connect.vi">
-		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%1#!#!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%1!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$:!=!!?!!!:&amp;V.U982%)%FO&gt;'6S:G&amp;D:3ZM&gt;G.M98.T!".4&gt;'&amp;U2#"*&lt;H2F=G:B9W5A&lt;X6U!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!#U!'!!21&lt;X*U!!!31$$`````#5BP=X1A4G&amp;N:1"5!0!!$!!$!!1!"!!&amp;!!1!"!!%!!1!"A!%!!=!#!-!!(A!!!U)!!!!!!!!!!!!!!E!!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!!1!!!!%!!!!!!"!!E!!!!!</Property>
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%1#!#!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%C!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$:!=!!?!!!:&amp;V.U982%)%FO&gt;'6S:G&amp;D:3ZM&gt;G.M98.T!".4&gt;'&amp;U2#"*&lt;H2F=G:B9W5A&lt;X6U!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!%5!'!!N1&lt;X*U)#AY-4)V+1!?1$$`````&amp;5BP=X1A4G&amp;N:3!I&lt;'^D97RI&lt;X.U+1"5!0!!$!!$!!1!"!!&amp;!!1!"!!%!!1!"A!%!!=!#!-!!(A!!!U)!!!!!!!!!!!!!!E!!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!!)!!!!#!!!!!!"!!E!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
 		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
