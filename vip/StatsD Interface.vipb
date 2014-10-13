@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-08-27 08:58:15" Modified_Date="2014-08-28 20:10:34" Creator="James" Comments="" ID="1cb695fd75b8b25ed9d7566aedbf41e0">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-08-27 08:58:15" Modified_Date="2014-10-13 10:35:39" Creator="James" Comments="" ID="79d8bee9425440d3c2b210e1f5d8214a">
   <Library_General_Settings>
     <Package_File_Name>Wiresmith_Technology_lib_StatsD_Interface</Package_File_Name>
-    <Library_Version>1.0.0.3</Library_Version>
+    <Library_Version>1.1.0.4</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..</Library_Source_Folder>
     <Library_Output_Folder>.</Library_Output_Folder>
@@ -32,7 +32,8 @@
       <Copyright/>
       <Packager>James McNally</Packager>
       <URL/>
-      <Release_Notes/>
+      <Release_Notes>* Added support for priorities on events.
+* Added support for aggregation keys on events.</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
@@ -164,7 +165,7 @@
       <skip_mass_compile_after_install>false</skip_mass_compile_after_install>
     </LabVIEW>
     <VI_Docs>
-      <Edit_VI_Description>false</Edit_VI_Description>
+      <Edit_VI_Description>true</Edit_VI_Description>
       <Text_to_Add>{product_name} {version_number}
 {author_name} - {company_name}
 {copyright}</Text_to_Add>
@@ -317,7 +318,7 @@
         <Path>..\Demo.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>87F74AE32A55FC008306F08E51D49EC3</GUID>
+      <GUID>9239498894AFF7309FF7FE6AFE3B8F7C</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
